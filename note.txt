@@ -1,0 +1,3 @@
+TODOS
+※ Check whether page was displayed with corrected title
+※ Fix post in which catelogies
